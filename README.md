@@ -12,9 +12,9 @@
 
 ---
 
-🎓 I’m a student at **Sol Plaatje University**, currently pursuing a Diploma in **ICT (Applications Development)**.  
-💡 I’m passionate about technology and constantly curious to learn more every day.  
-🚀 I have a growing background in programming and software development, and I'm always looking to improve and collaborate.
+I’m a student at **Sol Plaatje University**, currently pursuing a Diploma in **ICT (Applications Development)**.  
+I’m passionate about technology and constantly curious to learn more every day.  
+I have a growing background in programming and software development, and I'm always looking to improve and collaborate.
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 - Full-stack development  
 - React.js and improving frontend skills  
@@ -53,22 +53,22 @@
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
-- 📧 Email: [khutso.takalo1@gmail.com](mailto:khutso.takalo1@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/khutso-takalo-2996b2251](https://www.linkedin.com/in/khutso-takalo-2996b2251)  
-- 🐙 GitHub: [@Khutso-Takalo](https://github.com/Khutso-Takalo)
+-  Email: [khutso.takalo1@gmail.com](mailto:khutsotakalo1@gmail.com)  
+-  LinkedIn: [linkedin.com/in/khutso-takalo-2996b2251](https://www.linkedin.com/in/khutso-takalo-2996b2251)  
+-  GitHub: [@Khutso-Takalo](https://github.com/Khutso-Takalo)
 
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 
 I'm driven by the belief that **technology can transform lives**.  
 I'm here to **learn, grow**, and eventually help others do the same through what I build.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khutso-Takalo&show_icons=true&theme=radical" alt="GitHub Stats"/>
