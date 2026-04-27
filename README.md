@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/khutso-takalo-2996b2251">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:khutso.takalo1@gmail.com">
+  <a href="mailto:khutsotakalo1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-khutso.takalo1@gmail.com-red?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
